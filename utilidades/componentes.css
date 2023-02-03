@@ -22,7 +22,7 @@
 }
 
 .botao:hover {
-  background: linear-gradient(#ffb60d, #e19317);
+  background: linear-gradient(#ffb60d, #e59317);
 }
 
 .botao.secundario {
@@ -30,7 +30,7 @@
   color: var(--cor-2);
 }
 
-.botao.botao.secundario:hover {
+.botao.secundario:hover {
   background: var(--cor-9);
 }
 
@@ -45,7 +45,7 @@
   width: 18px;
   height: 10px;
   margin-left: 12px;
-  background: url(../img/icones/seta.svg);
+  background: url("../../img/icones/seta.svg");
   transition: transform 0.2s;
 }
 
@@ -79,7 +79,7 @@
   color: var(--cor-0);
 }
 
-/* Titulos internos */
+/* titulo internas */
 .titulo-bg {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -87,7 +87,7 @@
 }
 
 .titulo {
-  background: url("../img/dec/top-right.svg") no-repeat top right 20px;
+  background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
 }
 
 .titulo p {

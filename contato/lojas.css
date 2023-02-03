@@ -7,7 +7,7 @@
 }
 
 .lojas h2 {
-  grid-column: 1 / -1;
+  grid-column: 1/-1;
   margin-bottom: 60px;
 }
 
@@ -30,7 +30,7 @@
 
 .lojas-conteudo h3,
 .lojas-tempo {
-  grid-column: 1 / -1;
+  grid-column: 1/-1;
 }
 
 .lojas-dados {
